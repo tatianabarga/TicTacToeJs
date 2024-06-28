@@ -20,3 +20,18 @@ a {
 body {
   background-color: #88effd;
 }
+.container{
+  text-align: center;
+}
+.boxes{
+  display: flex;
+  height: 180px;
+  width: 180px;
+  border: 4px, solid, #03090a;
+}
+.board{
+  height: 600px;
+  width: 564px;
+  display: flex;
+  margin: auto;
+}
